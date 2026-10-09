@@ -12,6 +12,7 @@
 
 ### Projets en cours & Personnels
 * **Casque Animatronique Freddy (FNaF)** *(Projet Perso)* : Conception d'un masque fonctionnel avec yeux LED adressables, contrôle servo-moteur et système audio embarqué sur PCB sur-mesure.
+* https://github.com/yderkaoui0123-tech/Freddy-Animatronic-Mask
 * **Détecteur de somnolence au volant** *(Projet de 2ème année)* : Traitement de signal / vision par ordinateur embarquée sur cible microcontrôleur.
 * **Casque antibruit actif** *(Projet 1ère année)* : Étude analogique, filtrage et routage PCB sous KiCad.
 
